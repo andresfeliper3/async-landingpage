@@ -1,0 +1,23 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "Landing page built using asynchronous JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresfeliper3/async-landingpage.git"
+  },
+  "keywords": [],
+  "author": "Andrés F. Rincón <andresfeliper.2001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresfeliper3/async-landingpage/issues"
+  },
+  "homepage": "https://github.com/andresfeliper3/async-landingpage#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
